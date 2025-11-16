@@ -85,9 +85,8 @@ The Gunn diode exhibits clear negative differential resistance with a peak aroun
 •	Connections should be done properly.
 •	Observation should be taken properly.
 
-**Result**
+**Result:**
 
 The Gunn oscillator demonstrates the expected NDR behavior (peak ≈ 3 V, valley ≈ 7 V) and the PIN modulator produced a modulation depth of ≈ 50%.
 
-**Result:**
 
