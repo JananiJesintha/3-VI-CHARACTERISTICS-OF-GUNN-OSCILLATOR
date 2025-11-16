@@ -70,6 +70,7 @@ Convert ΔdB to amplitude ratio:
 <img width="813" height="188" alt="image" src="https://github.com/user-attachments/assets/6913d764-827f-422e-8271-d41adaa7438b" />
 
 Depth of modulation ≈ 50%
+
 **C.Analysis of Results:**
 
 1.The I–V curve shows a rise in current up to a peak (~3 V, 28 mA), then a fall to a valley (~7 V, 12 mA) and a subsequent rise — this is the classic negative differential resistance (NDR) region of a Gunn diode. 2.The device should be biased in the mid-NDR region (between peak and valley) for stable microwave oscillation. 3.From PIN modulator measurements, a Δ of 6 dB between high/low detector readings gives an amplitude ratio ≈ 2, corresponding to ~50% modulation depth, indicating effective amplitude modulation by the PIN modulator.
