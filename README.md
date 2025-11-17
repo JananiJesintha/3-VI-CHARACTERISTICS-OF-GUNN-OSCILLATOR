@@ -56,7 +56,10 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 
 **B.Observation:** 
 
-<img width="761" height="622" alt="image" src="https://github.com/user-attachments/assets/07eea0b1-ba1f-4d40-8d16-9d8087449621" />
+<img width="1128" height="688" alt="image" src="https://github.com/user-attachments/assets/db9ea49a-0d2f-4fe1-9755-ea424071f78a" />
+
+<img width="823" height="1280" alt="image" src="https://github.com/user-attachments/assets/d7a40133-85ff-4524-b1a8-84ff92ea7221" />
+
 
 
 Depth of modulation of PIN diode (sample readings & calc.)
